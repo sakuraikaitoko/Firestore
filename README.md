@@ -1,2 +1,2 @@
 # Firestore
-A simpler LM model that doesn't require any form of network meant for low level basic task and simple accessory features on PCs and Macs.
+A simpler LM model that doesn't require any form of network meant for low level basic task and simple accessory features on PCs and Macs. This could save readable PDF documents and read them back or summarize information stored. Taking documents such as business cards and creating a digital rolladex. With effective programming it would be simple enough to integrate into a companies own server, which would be designed light enough for lower level start ups to use. 
