@@ -1,4 +1,4 @@
-#Firestone
+# Firestone
 - Drag and drop feature.
 - Pre installed animated features for personalization.
 - Accessible on OS’s.
